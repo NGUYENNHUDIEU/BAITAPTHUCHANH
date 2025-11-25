@@ -6,3 +6,4 @@ def checkValue(n):
    print ("Đây là một số lẻ")
 checkValue(6) 
 
+

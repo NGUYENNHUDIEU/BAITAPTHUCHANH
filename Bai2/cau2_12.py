@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 import re
 passwords = input("Nhập các mật khẩu, cách nhau bằng dấu phẩy: ").split(',')
 
@@ -13,3 +14,4 @@ for p in passwords:
         
         valid_passwords.append(p)
 print(",".join(valid_passwords))
+

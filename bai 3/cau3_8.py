@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 import math
 
 # Vị trí ban đầu của robot
@@ -27,3 +28,4 @@ while True:
 # Tính khoảng cách từ gốc (0,0)
 distance = math.sqrt(pos[0]**2 + pos[1]**2)
 print("Khoảng cách là:", round(distance))
+

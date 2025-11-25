@@ -1,4 +1,5 @@
- # This function adds two numbers  
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
+# This function adds two numbers  
 def add(x, y): 
   return x + y 
 # This function subtracts two numbers  
@@ -29,3 +30,4 @@ elif choice == '4':
    print(num1,"/",num2,"=", divide(num1,num2)) 
 else: 
    print("Invalid input") 
+

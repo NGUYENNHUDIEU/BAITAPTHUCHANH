@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 print("Sinh viên: Nguyễn Nhứ Diệu")
 print("MSV: 245752021610124")
 
@@ -14,3 +15,4 @@ d2 = (y2 - y1) * (y2 - y1)
 res = math.sqrt(d1 + d2)
 
 print("Distance between two points:", res)
+

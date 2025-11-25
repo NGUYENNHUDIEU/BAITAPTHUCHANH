@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 def benefit(t, n, k):
     try:
         # Chuyển đổi các giá trị sang kiểu float để tính toán chính xác
@@ -22,3 +23,4 @@ n = input("Nhập số vốn ban đầu (VND): ")
 k = input("Nhập số tháng gửi: ")
 
 benefit(t, n, k)
+

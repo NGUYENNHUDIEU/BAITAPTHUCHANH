@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 def get_sum(*num): 
   tmp = 0 
   # duyet cac tham so 
@@ -6,3 +7,4 @@ def get_sum(*num):
   return tmp 
 result = get_sum(1, 2, 3, 4, 5) 
 print(result)
+

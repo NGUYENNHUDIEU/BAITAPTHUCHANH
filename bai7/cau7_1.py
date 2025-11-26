@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 input_file = open('a.txt', 'r')
 for line in input_file:
     line = line.rstrip('\n')
@@ -8,3 +9,4 @@ for line in input_file:
         l = l-1
     print(s)
 input_file.close()
+

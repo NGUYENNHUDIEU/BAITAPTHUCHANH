@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 def main():
     balance = 0
     while True:
@@ -19,3 +20,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

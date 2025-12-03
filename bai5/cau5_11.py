@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 import numpy as np
 
 # Định nghĩa kiểu dữ liệu có cấu trúc
@@ -19,3 +20,4 @@ sorted_students = np.sort(student_array, order=['class', 'height'])
 
 # In kết quả
 print(sorted_students)
+

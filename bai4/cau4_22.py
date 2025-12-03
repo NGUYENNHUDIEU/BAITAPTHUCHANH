@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 def main():
     result = []
     for num in range(1000, 3001):  # từ 1000 đến 3000
@@ -8,3 +9,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

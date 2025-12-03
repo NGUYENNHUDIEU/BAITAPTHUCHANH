@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 import datetime as dt 
 format = '%Y-%m-%dT%H:%M:%S' 
 t1 = dt.datetime.strptime('2008-10-12T14:45:52', format) 
@@ -9,3 +10,4 @@ print('Second ' + str(t1.second))
 t2 = dt.datetime.now() 
 diff = t2 - t1 
 print('How many days difference? ' + str(diff.days))
+

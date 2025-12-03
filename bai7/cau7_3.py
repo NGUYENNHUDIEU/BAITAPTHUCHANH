@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 def read_full_file_best(filename):
     """Đọc toàn bộ nội dung của tệp bằng with open."""
     try:
@@ -12,3 +13,4 @@ def read_full_file_best(filename):
     except Exception as e:
         print(f"Lỗi không xác định: {e}")
 read_full_file_best('a.txt')
+

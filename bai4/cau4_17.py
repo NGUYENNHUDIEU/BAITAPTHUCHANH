@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 def tong_uoc_so(x):
     tong = 1  # 1 luôn là ước của mọi số > 1
     for i in range(2, int(x**0.5) + 1):
@@ -11,4 +12,5 @@ n = int(input("Nhập số nguyên n: "))
 for num in range(1, n):
     if tong_uoc_so(num) > num:
         print(num, end=" ")
+
 

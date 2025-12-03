@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 def sort_list(lst):
     """Sắp xếp danh sách theo thứ tự tăng dần."""
     return sorted(lst)
@@ -31,3 +32,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

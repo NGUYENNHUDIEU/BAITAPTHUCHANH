@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 def Sequential_Search(dlist, item):
     for index in range(len(dlist)):
         if dlist[index] == item:
@@ -24,3 +25,4 @@ if __name__ == "__main__":
             print(f"Không tìm thấy {item} trong danh sách")
     except ValueError:
         print("Vui lòng nhập đúng định dạng số nguyên.")
+

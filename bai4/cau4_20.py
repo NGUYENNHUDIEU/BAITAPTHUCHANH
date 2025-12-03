@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 def pascal_triangle(n):
     triangle = []
     for i in range(n):
@@ -18,3 +19,4 @@ n = int(input("Nhập số dòng n: "))
 triangle = pascal_triangle(n)
 for row in triangle:
     print(" ".join(str(x) for x in row))
+

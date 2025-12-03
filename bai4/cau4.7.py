@@ -1,6 +1,8 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 s = input("Nhập chuỗi: ")
 chuoi_moi = ""
 for ch in s:
     if not ch.isdigit():
         chuoi_moi += ch
 print("Chuỗi sau khi loại bỏ chữ số:", chuoi_moi)
+

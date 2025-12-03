@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 import numpy as np
 
 # Tạo mảng với các giá trị từ 12 đến 38 (không bao gồm 38)
@@ -9,4 +10,5 @@ print(arr)
 reversed_arr = arr[::-1]
 print("Mảng đảo ngược:")
 print(reversed_arr)
+
 

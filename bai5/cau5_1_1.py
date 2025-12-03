@@ -1,4 +1,4 @@
-
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 import mymath
 values = [2,4,6,8,10] 
 print('Squares:') 
@@ -8,3 +8,4 @@ print('Cubes:')
 for v in values: 
     print(mymath.cube(v)) 
 print('Average: ' + str(mymath.average(values))) 
+

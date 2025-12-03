@@ -1,3 +1,4 @@
+print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
 class IOString:
     def __init__(self):
         self.str1 = ""
